@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jquery.com/">
-    <img src="https://es.m.wikipedia.org/wiki/Archivo:JQuery-Logo.svg" width="200" height="165">
+    <img src="t.ly/h3eN" width="200" height="165">
   </a>
 </p>
 
