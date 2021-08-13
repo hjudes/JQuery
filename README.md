@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://jquery.com/">
-    <img src="t.ly/h3eN" width="200" height="165">
+    <img src="https://i.postimg.cc/s2Xrm4dp/pngegg.png" alt="Bootstrap logo" width="500" height="300">
   </a>
-</p>
+</p
 
 <h1 align="center">JQuery</h1>
 
