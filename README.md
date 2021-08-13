@@ -1,14 +1,11 @@
-# JQuery
-
 <p align="center">
   <a href="https://jquery.com/">
     <img src="https://i.postimg.cc/s2Xrm4dp/pngegg.png" alt="Bootstrap logo" width="500" height="300">
   </a>
 </p
 
-<h1 align="center">JQuery</h1>
 
-# BootstrapTut
+# JQuery
 Sesión Bootstrap Diplomado SENA
 Resumen de los pasos ejecutados en la sesión de Bootstrap realizada.
 <br>
