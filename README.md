@@ -36,3 +36,7 @@ Dentro de la etiqueta <head> de nuestro código HTML debe incluirse la siguiente
 ## Copyright y licencia
 
 JQuery administrado y alimentado por [OpenJS Foundation](https://openjsf.org/).
+
+## JavaScript a Typescript
+  
+La siguiente herramienta, disponible en el [Marketplace]https://marketplace.visualstudio.com/items?itemName=learn-game-development.js-syntax-extension de Visual Studio Code, es posible utilizarla para convertir código JavaScript a Typescript.
